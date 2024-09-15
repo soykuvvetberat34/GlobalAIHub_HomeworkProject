@@ -6,3 +6,11 @@ Gözetimli Öğrenme modelini değerlendirmek için confusion matrix ve accuracy
 
 
 confusion matrix te en soldan başlayarak çapraz olarak aşağı inerek değerleri topladığımızda doğru bilinen değerlerin sayısına ulaşırız
+
+
+![download](https://github.com/user-attachments/assets/2050c42f-d001-452b-9de7-0bedc50f3626)
+
+
+
+
+
