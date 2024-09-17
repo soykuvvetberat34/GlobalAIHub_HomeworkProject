@@ -8,9 +8,17 @@ Gözetimli Öğrenme modelini değerlendirmek için confusion matrix ve accuracy
 confusion matrix te en soldan başlayarak çapraz olarak aşağı inerek değerleri topladığımızda doğru bilinen değerlerin sayısına ulaşırız
 
 KNN (K-Nearest Neighbors) algoritmasını bir sınıflandırma problemi için seçmemin birkaç nedeni vardır:
+-
+
   -Basitlik ve Kolay Anlaşılabilirlik
+  -
+  
   -Veriye Dayalı Sınıflandırma
+  -
+  
   -Mesafe Tabanlı Yaklaşım
+  -
+  
   -Verilerin karmaşık bir dağılımı varsa bile yakın komşuların çoğunluğu sınıfı belirleyebilir
   -
 
