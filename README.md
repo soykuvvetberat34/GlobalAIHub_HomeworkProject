@@ -16,4 +16,4 @@ Gözetimsiz öğrenme
 
 
 
-
+supervised learning kaggle link :https://www.kaggle.com/code/beratsoykuvvet/supervised-learning?scriptVersionId=197057204
