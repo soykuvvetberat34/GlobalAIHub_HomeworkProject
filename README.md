@@ -1,6 +1,7 @@
 # GlobalAIHub_HomeworkProject
 
 Gözetimli Öğrenme modelini değerlendirmek için confusion matrix ve accuracy score kullandım
+-
 
 ![image](https://github.com/user-attachments/assets/db8f484f-1205-4521-b60a-280744d42e9f)
 
