@@ -24,8 +24,9 @@ KNN (K-Nearest Neighbors) algoritmasını bir sınıflandırma problemi için se
 
 
 
--
+
 Gözetimsiz öğrenme
+-
 
 ![download](https://github.com/user-attachments/assets/2050c42f-d001-452b-9de7-0bedc50f3626)
 
