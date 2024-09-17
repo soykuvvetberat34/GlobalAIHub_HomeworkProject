@@ -11,20 +11,20 @@ KNN (K-Nearest Neighbors) algoritmasını bir sınıflandırma problemi için se
 -
 
   -Basitlik ve Kolay Anlaşılabilirlik
-  -
+  
   
   -Veriye Dayalı Sınıflandırma
-  -
+  
   
   -Mesafe Tabanlı Yaklaşım
-  -
+  
   
   -Verilerin karmaşık bir dağılımı varsa bile yakın komşuların çoğunluğu sınıfı belirleyebilir
-  -
+  
 
 
 
--------------------------------------------------------------------------------------------------------------
+-
 Gözetimsiz öğrenme
 
 ![download](https://github.com/user-attachments/assets/2050c42f-d001-452b-9de7-0bedc50f3626)
