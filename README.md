@@ -17,4 +17,5 @@ Gözetimsiz öğrenme
 
 
 Supervised Learning kaggle link :https://www.kaggle.com/code/beratsoykuvvet/supervised-learning?scriptVersionId=197057204
+
 Unsupervised Learning kaggle link :https://www.kaggle.com/code/beratsoykuvvet/unsupervised-learning?scriptVersionId=197059358
