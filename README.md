@@ -47,7 +47,8 @@ KMeans algoritmasını (daha doğrusu kümeleme) seçmemin nedenlerini şu şeki
 
 
 
-
+Kaggle Linkleri
+-
 
 Supervised Learning kaggle link :https://www.kaggle.com/code/beratsoykuvvet/supervised-learning?scriptVersionId=197057204
 
